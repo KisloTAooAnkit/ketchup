@@ -18,5 +18,5 @@ Refer to the speaker guides below to prepare for your first technical talks :
 
 * [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/): **Bayesian Linear Regression** 
     * [Speaker Content](https://medium.com/@souradip_chak/bayesian-thinking-estimating-posterior-distribution-for-linear-regression-data-ketchup-2f50a597eb06) 
-    * [Code](https://github.com/souradip-chakraborty/Soura_Codes/tree/master/Bayesian%20Thinking%20%40%20Data%20Ketchup%20%231%7C%7CKaggle%20Meetup)\
+    * [Code](https://github.com/souradip-chakraborty/Soura_Codes/tree/master/Bayesian%20Thinking%20%40%20Data%20Ketchup%20%231%7C%7CKaggle%20Meetup)
     * [Video Recording](https://drive.google.com/open?id=1JVL60wUTlyPJRaxlKakDwxU_grCVOPaD)
